@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bim:home|Door43 (bim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bim|d43-bim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bim/archive/master.zip|d43-bim.zip]]
+
+**Recent Changes**
+{{changes>ns = bim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bim|Ethnologue data]]
+
